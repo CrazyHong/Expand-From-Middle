@@ -1,0 +1,22 @@
+/* css document */
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,form,img,dl,dt,dd,table,th,td,blockquote,fieldset,div,strong,label,em{margin:0;padding:0;border:0;}
+ul,ol,li{list-style:none;}
+input,button{margin:0;font-size:12px;vertical-align:middle;}
+body{font-size:12px;font-family:arial, helvetica, sans-serif;  text-align:center; margin:0 auto;}
+table{border-collapse:collapse;border-spacing:0;}
+
+a{color:#333;text-decoration:none;}
+a:hover{color:#ef9b11;}
+
+.pr{ position:relative;}
+.pa{ position:absolute;}
+.fx{ position:fixed;}
+
+body{ overflow:hidden}
+.btnctrl{ padding-top:5px;}
+#btn{ display:inline-block; color:#fff; width:120px; height:30px; text-align:center; line-height:30px; background:#f00; cursor:pointer;}
+.tab{ width:1100px; position:absolute; vertical-align:middle;  margin-left:190px; top:50%;}
+.box-163css{ width:100%;background:#000; position:absolute; height:0; top:50%; overflow:hidden}
+.box-163css li{ float:left; margin:30px 0 0 100px;}
+#close{ width:120px; height:30px; margin-left:20px; display:inline-block; background:#000; color:#fff; line-height:30px; cursor:pointer;}
+.btnctrl{ text-align:center;}
